@@ -1,1 +1,2 @@
-
+Program generuje rekurencyjnie tablicę SUDOKU o zadanym poziomie trudności (ilość pól do uzupełnienia).
+Następnie algorytm genetyczny rozwiązuje zagadkę.
